@@ -1,0 +1,1022 @@
+{
+  "_app-logo-CrZ-VIvy.js": {
+    "file": "assets/app-logo-CrZ-VIvy.js",
+    "name": "app-logo",
+    "imports": [
+      "resources/js/app.tsx",
+      "_app-logo-icon-M5DxgyyP.js",
+      "_index-Cs5AiRkC.js",
+      "_index-BauX7GW_.js"
+    ],
+    "css": [
+      "assets/app-logo-DdO2lXxq.css"
+    ]
+  },
+  "_app-logo-DdO2lXxq.css": {
+    "file": "assets/app-logo-DdO2lXxq.css",
+    "src": "_app-logo-DdO2lXxq.css"
+  },
+  "_app-logo-icon-CGug3U8M.css": {
+    "file": "assets/app-logo-icon-CGug3U8M.css",
+    "src": "_app-logo-icon-CGug3U8M.css"
+  },
+  "_app-logo-icon-M5DxgyyP.js": {
+    "file": "assets/app-logo-icon-M5DxgyyP.js",
+    "name": "app-logo-icon",
+    "imports": [
+      "resources/js/app.tsx"
+    ],
+    "css": [
+      "assets/app-logo-icon-CGug3U8M.css"
+    ]
+  },
+  "_auth-layout-DIAq8QoJ.js": {
+    "file": "assets/auth-layout-DIAq8QoJ.js",
+    "name": "auth-layout",
+    "imports": [
+      "resources/js/app.tsx",
+      "_app-logo-icon-M5DxgyyP.js"
+    ]
+  },
+  "_book-open-CogPA6sW.js": {
+    "file": "assets/book-open-CogPA6sW.js",
+    "name": "book-open",
+    "imports": [
+      "_app-logo-icon-M5DxgyyP.js"
+    ]
+  },
+  "_calendar-a14FqBlc.js": {
+    "file": "assets/calendar-a14FqBlc.js",
+    "name": "calendar",
+    "imports": [
+      "_app-logo-icon-M5DxgyyP.js"
+    ]
+  },
+  "_camera-C1kMh5Dq.js": {
+    "file": "assets/camera-C1kMh5Dq.js",
+    "name": "camera",
+    "imports": [
+      "_app-logo-icon-M5DxgyyP.js"
+    ]
+  },
+  "_check-CbkRpova.js": {
+    "file": "assets/check-CbkRpova.js",
+    "name": "check",
+    "imports": [
+      "_app-logo-icon-M5DxgyyP.js"
+    ]
+  },
+  "_chevron-down-XoXwTeV4.js": {
+    "file": "assets/chevron-down-XoXwTeV4.js",
+    "name": "chevron-down",
+    "imports": [
+      "_app-logo-icon-M5DxgyyP.js"
+    ]
+  },
+  "_chevron-right-DdHpQQas.js": {
+    "file": "assets/chevron-right-DdHpQQas.js",
+    "name": "chevron-right",
+    "imports": [
+      "_app-logo-icon-M5DxgyyP.js"
+    ]
+  },
+  "_circle-alert-D8OGYjDN.js": {
+    "file": "assets/circle-alert-D8OGYjDN.js",
+    "name": "circle-alert",
+    "imports": [
+      "_app-logo-icon-M5DxgyyP.js"
+    ]
+  },
+  "_circle-arrow-left-C3PLSlrJ.js": {
+    "file": "assets/circle-arrow-left-C3PLSlrJ.js",
+    "name": "circle-arrow-left",
+    "imports": [
+      "_app-logo-icon-M5DxgyyP.js"
+    ]
+  },
+  "_dialog-DbPSSo2k.js": {
+    "file": "assets/dialog-DbPSSo2k.js",
+    "name": "dialog",
+    "imports": [
+      "resources/js/app.tsx",
+      "_app-logo-CrZ-VIvy.js",
+      "_app-logo-icon-M5DxgyyP.js"
+    ]
+  },
+  "_eye-BLANSZuG.js": {
+    "file": "assets/eye-BLANSZuG.js",
+    "name": "eye",
+    "imports": [
+      "_app-logo-icon-M5DxgyyP.js"
+    ]
+  },
+  "_eye-off-DNW-5Him.js": {
+    "file": "assets/eye-off-DNW-5Him.js",
+    "name": "eye-off",
+    "imports": [
+      "_app-logo-icon-M5DxgyyP.js"
+    ]
+  },
+  "_index-BauX7GW_.js": {
+    "file": "assets/index-BauX7GW_.js",
+    "name": "index",
+    "imports": [
+      "resources/js/app.tsx",
+      "_app-logo-icon-M5DxgyyP.js"
+    ]
+  },
+  "_index-BivmiiMJ.css": {
+    "file": "assets/index-BivmiiMJ.css",
+    "src": "_index-BivmiiMJ.css"
+  },
+  "_index-Biyy2jAE.js": {
+    "file": "assets/index-Biyy2jAE.js",
+    "name": "index",
+    "imports": [
+      "_app-logo-icon-M5DxgyyP.js",
+      "resources/js/app.tsx"
+    ],
+    "css": [
+      "assets/index-BivmiiMJ.css"
+    ]
+  },
+  "_index-BnFUR6-L.js": {
+    "file": "assets/index-BnFUR6-L.js",
+    "name": "index",
+    "imports": [
+      "resources/js/app.tsx"
+    ]
+  },
+  "_index-Cs5AiRkC.js": {
+    "file": "assets/index-Cs5AiRkC.js",
+    "name": "index",
+    "imports": [
+      "resources/js/app.tsx",
+      "_app-logo-icon-M5DxgyyP.js"
+    ]
+  },
+  "_index-DuuG6fQz.js": {
+    "file": "assets/index-DuuG6fQz.js",
+    "name": "index",
+    "imports": [
+      "_app-logo-icon-M5DxgyyP.js"
+    ]
+  },
+  "_index-Dw0P0wSx.js": {
+    "file": "assets/index-Dw0P0wSx.js",
+    "name": "index",
+    "imports": [
+      "_app-logo-icon-M5DxgyyP.js"
+    ]
+  },
+  "_index-yAvYzM-X.js": {
+    "file": "assets/index-yAvYzM-X.js",
+    "name": "index",
+    "imports": [
+      "_app-logo-icon-M5DxgyyP.js",
+      "_index-DuuG6fQz.js"
+    ]
+  },
+  "_input-error-C0QJZ2uP.js": {
+    "file": "assets/input-error-C0QJZ2uP.js",
+    "name": "input-error",
+    "imports": [
+      "resources/js/app.tsx",
+      "_app-logo-icon-M5DxgyyP.js"
+    ]
+  },
+  "_input-tX9paWm5.js": {
+    "file": "assets/input-tX9paWm5.js",
+    "name": "input",
+    "imports": [
+      "resources/js/app.tsx",
+      "_app-logo-icon-M5DxgyyP.js"
+    ]
+  },
+  "_label-Dw3R6cgY.js": {
+    "file": "assets/label-Dw3R6cgY.js",
+    "name": "label",
+    "imports": [
+      "resources/js/app.tsx",
+      "_index-BauX7GW_.js",
+      "_app-logo-icon-M5DxgyyP.js"
+    ]
+  },
+  "_layout-9lkeuaET.js": {
+    "file": "assets/layout-9lkeuaET.js",
+    "name": "layout",
+    "imports": [
+      "resources/js/app.tsx",
+      "_use-active-url-DbkSK5dk.js",
+      "_app-logo-icon-M5DxgyyP.js",
+      "_index-Biyy2jAE.js",
+      "_recipe-card-FZdQ3BA8.js"
+    ]
+  },
+  "_layout-BmxDMfzv.js": {
+    "file": "assets/layout-BmxDMfzv.js",
+    "name": "layout",
+    "imports": [
+      "resources/js/app.tsx",
+      "_use-active-url-DbkSK5dk.js",
+      "_app-logo-icon-M5DxgyyP.js",
+      "_app-logo-CrZ-VIvy.js"
+    ]
+  },
+  "_loader-circle-6foWj8Qm.js": {
+    "file": "assets/loader-circle-6foWj8Qm.js",
+    "name": "loader-circle",
+    "imports": [
+      "_app-logo-icon-M5DxgyyP.js"
+    ]
+  },
+  "_page-layout-BfPb8s8C.css": {
+    "file": "assets/page-layout-BfPb8s8C.css",
+    "src": "_page-layout-BfPb8s8C.css"
+  },
+  "_page-layout-b-iBJb6l.js": {
+    "file": "assets/page-layout-b-iBJb6l.js",
+    "name": "page-layout",
+    "imports": [
+      "resources/js/app.tsx",
+      "_app-logo-icon-M5DxgyyP.js",
+      "_app-logo-CrZ-VIvy.js"
+    ],
+    "css": [
+      "assets/page-layout-BfPb8s8C.css"
+    ]
+  },
+  "_recipe-card-DMTaqctQ.css": {
+    "file": "assets/recipe-card-DMTaqctQ.css",
+    "src": "_recipe-card-DMTaqctQ.css"
+  },
+  "_recipe-card-FZdQ3BA8.js": {
+    "file": "assets/recipe-card-FZdQ3BA8.js",
+    "name": "recipe-card",
+    "imports": [
+      "_app-logo-icon-M5DxgyyP.js",
+      "resources/js/app.tsx",
+      "_app-logo-CrZ-VIvy.js",
+      "_index-Biyy2jAE.js",
+      "_camera-C1kMh5Dq.js",
+      "_trash-2-CCwFE0g5.js",
+      "_timer-BvEE_CvD.js"
+    ],
+    "css": [
+      "assets/recipe-card-DMTaqctQ.css"
+    ]
+  },
+  "_recipe-filter-layout-B-QVDyxT.js": {
+    "file": "assets/recipe-filter-layout-B-QVDyxT.js",
+    "name": "recipe-filter-layout",
+    "imports": [
+      "resources/js/app.tsx",
+      "_recipe-card-FZdQ3BA8.js",
+      "_app-logo-icon-M5DxgyyP.js",
+      "_chevron-down-XoXwTeV4.js",
+      "_check-CbkRpova.js",
+      "_calendar-a14FqBlc.js",
+      "_app-logo-CrZ-VIvy.js",
+      "_page-layout-b-iBJb6l.js",
+      "_loader-circle-6foWj8Qm.js"
+    ],
+    "css": [
+      "assets/recipe-filter-layout-BJhZSYBG.css"
+    ]
+  },
+  "_recipe-filter-layout-BJhZSYBG.css": {
+    "file": "assets/recipe-filter-layout-BJhZSYBG.css",
+    "src": "_recipe-filter-layout-BJhZSYBG.css"
+  },
+  "_recipe-grid-AW6vLdQ0.css": {
+    "file": "assets/recipe-grid-AW6vLdQ0.css",
+    "src": "_recipe-grid-AW6vLdQ0.css"
+  },
+  "_recipe-grid-CUI5rBHA.js": {
+    "file": "assets/recipe-grid-CUI5rBHA.js",
+    "name": "recipe-grid",
+    "imports": [
+      "resources/js/app.tsx",
+      "_recipe-card-FZdQ3BA8.js"
+    ],
+    "css": [
+      "assets/recipe-grid-AW6vLdQ0.css"
+    ]
+  },
+  "_spinner-CxSm2TwD.js": {
+    "file": "assets/spinner-CxSm2TwD.js",
+    "name": "spinner",
+    "imports": [
+      "resources/js/app.tsx",
+      "_app-logo-icon-M5DxgyyP.js",
+      "_loader-circle-6foWj8Qm.js"
+    ]
+  },
+  "_text-link-B7lpG8bE.js": {
+    "file": "assets/text-link-B7lpG8bE.js",
+    "name": "text-link",
+    "imports": [
+      "resources/js/app.tsx",
+      "_app-logo-icon-M5DxgyyP.js"
+    ]
+  },
+  "_timer-BvEE_CvD.js": {
+    "file": "assets/timer-BvEE_CvD.js",
+    "name": "timer",
+    "imports": [
+      "_app-logo-icon-M5DxgyyP.js"
+    ]
+  },
+  "_transition-DpPI5nib.js": {
+    "file": "assets/transition-DpPI5nib.js",
+    "name": "transition",
+    "imports": [
+      "resources/js/app.tsx"
+    ]
+  },
+  "_trash-2-CCwFE0g5.js": {
+    "file": "assets/trash-2-CCwFE0g5.js",
+    "name": "trash-2",
+    "imports": [
+      "_app-logo-icon-M5DxgyyP.js"
+    ]
+  },
+  "_use-active-url-DbkSK5dk.js": {
+    "file": "assets/use-active-url-DbkSK5dk.js",
+    "name": "use-active-url",
+    "imports": [
+      "resources/js/app.tsx",
+      "_index-BauX7GW_.js",
+      "_app-logo-icon-M5DxgyyP.js"
+    ]
+  },
+  "_use-two-factor-auth-Cic_rOVQ.js": {
+    "file": "assets/use-two-factor-auth-Cic_rOVQ.js",
+    "name": "use-two-factor-auth",
+    "imports": [
+      "resources/js/app.tsx",
+      "_app-logo-icon-M5DxgyyP.js"
+    ]
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-DkdrQXns.css",
+    "src": "resources/css/app.css",
+    "isEntry": true,
+    "name": "app",
+    "names": [
+      "app.css"
+    ]
+  },
+  "resources/fonts/Montserrat-SemiBold.ttf": {
+    "file": "assets/Montserrat-SemiBold-YdOtxg4l.ttf",
+    "src": "resources/fonts/Montserrat-SemiBold.ttf"
+  },
+  "resources/fonts/Montserrat-SemiBold.woff": {
+    "file": "assets/Montserrat-SemiBold-CKFHtGZO.woff",
+    "src": "resources/fonts/Montserrat-SemiBold.woff"
+  },
+  "resources/fonts/Montserrat-SemiBold.woff2": {
+    "file": "assets/Montserrat-SemiBold-RNaBMtWH.woff2",
+    "src": "resources/fonts/Montserrat-SemiBold.woff2"
+  },
+  "resources/js/app.tsx": {
+    "file": "assets/app-DJTa-Xmf.js",
+    "name": "app",
+    "src": "resources/js/app.tsx",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/pages/Home.tsx",
+      "resources/js/pages/Ingredients/Index.tsx",
+      "resources/js/pages/Moderation.tsx",
+      "resources/js/pages/Profile/Show.tsx",
+      "resources/js/pages/Recipe/CreateRecipe.tsx",
+      "resources/js/pages/Recipe/Show.tsx",
+      "resources/js/pages/SearchResults.tsx",
+      "resources/js/pages/auth/confirm-password.tsx",
+      "resources/js/pages/auth/forgot-password.tsx",
+      "resources/js/pages/auth/login.tsx",
+      "resources/js/pages/auth/register.tsx",
+      "resources/js/pages/auth/reset-password.tsx",
+      "resources/js/pages/auth/two-factor-challenge.tsx",
+      "resources/js/pages/auth/verify-email.tsx",
+      "resources/js/pages/recipe-book/created.tsx",
+      "resources/js/pages/recipe-book/favorites.tsx",
+      "resources/js/pages/recipe-book/rated.tsx",
+      "resources/js/pages/settings/appearance.tsx",
+      "resources/js/pages/settings/password.tsx",
+      "resources/js/pages/settings/profile.tsx",
+      "resources/js/pages/settings/two-factor.tsx"
+    ],
+    "css": [
+      "assets/app-DkdrQXns.css"
+    ],
+    "assets": [
+      "assets/Montserrat-SemiBold-RNaBMtWH.woff2",
+      "assets/Montserrat-SemiBold-CKFHtGZO.woff",
+      "assets/Montserrat-SemiBold-YdOtxg4l.ttf"
+    ]
+  },
+  "resources/js/pages/Home.tsx": {
+    "file": "assets/Home-BPev4pOT.js",
+    "name": "Home",
+    "src": "resources/js/pages/Home.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_page-layout-b-iBJb6l.js",
+      "_recipe-filter-layout-B-QVDyxT.js",
+      "_index-Biyy2jAE.js",
+      "_app-logo-icon-M5DxgyyP.js",
+      "_recipe-card-FZdQ3BA8.js",
+      "_chevron-right-DdHpQQas.js",
+      "_app-logo-CrZ-VIvy.js",
+      "_index-Cs5AiRkC.js",
+      "_index-BauX7GW_.js",
+      "_chevron-down-XoXwTeV4.js",
+      "_check-CbkRpova.js",
+      "_calendar-a14FqBlc.js",
+      "_loader-circle-6foWj8Qm.js",
+      "_camera-C1kMh5Dq.js",
+      "_trash-2-CCwFE0g5.js",
+      "_timer-BvEE_CvD.js"
+    ],
+    "css": [
+      "assets/Home-D4AKVHE_.css",
+      "assets/app-DkdrQXns.css"
+    ],
+    "assets": [
+      "assets/Montserrat-SemiBold-RNaBMtWH.woff2",
+      "assets/Montserrat-SemiBold-CKFHtGZO.woff",
+      "assets/Montserrat-SemiBold-YdOtxg4l.ttf"
+    ]
+  },
+  "resources/js/pages/Ingredients/Index.tsx": {
+    "file": "assets/Index-D0GtN1_X.js",
+    "name": "Index",
+    "src": "resources/js/pages/Ingredients/Index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_page-layout-b-iBJb6l.js",
+      "_app-logo-icon-M5DxgyyP.js",
+      "_trash-2-CCwFE0g5.js",
+      "_app-logo-CrZ-VIvy.js",
+      "_index-Cs5AiRkC.js",
+      "_index-BauX7GW_.js"
+    ],
+    "css": [
+      "assets/Index-6Bywd4Az.css",
+      "assets/app-DkdrQXns.css"
+    ],
+    "assets": [
+      "assets/Montserrat-SemiBold-RNaBMtWH.woff2",
+      "assets/Montserrat-SemiBold-CKFHtGZO.woff",
+      "assets/Montserrat-SemiBold-YdOtxg4l.ttf"
+    ]
+  },
+  "resources/js/pages/Moderation.tsx": {
+    "file": "assets/Moderation-BNB-7zPZ.js",
+    "name": "Moderation",
+    "src": "resources/js/pages/Moderation.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_page-layout-b-iBJb6l.js",
+      "_check-CbkRpova.js",
+      "_app-logo-CrZ-VIvy.js",
+      "_camera-C1kMh5Dq.js",
+      "_timer-BvEE_CvD.js",
+      "_calendar-a14FqBlc.js",
+      "_eye-BLANSZuG.js",
+      "_circle-arrow-left-C3PLSlrJ.js",
+      "_app-logo-icon-M5DxgyyP.js",
+      "_index-Cs5AiRkC.js",
+      "_index-BauX7GW_.js"
+    ],
+    "css": [
+      "assets/Moderation-DKoiiHpy.css",
+      "assets/app-DkdrQXns.css"
+    ],
+    "assets": [
+      "assets/Montserrat-SemiBold-RNaBMtWH.woff2",
+      "assets/Montserrat-SemiBold-CKFHtGZO.woff",
+      "assets/Montserrat-SemiBold-YdOtxg4l.ttf"
+    ]
+  },
+  "resources/js/pages/Profile/Show.tsx": {
+    "file": "assets/Show-CGLlE9Q5.js",
+    "name": "Show",
+    "src": "resources/js/pages/Profile/Show.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_page-layout-b-iBJb6l.js",
+      "_recipe-grid-CUI5rBHA.js",
+      "_app-logo-CrZ-VIvy.js",
+      "_circle-arrow-left-C3PLSlrJ.js",
+      "_app-logo-icon-M5DxgyyP.js",
+      "_book-open-CogPA6sW.js",
+      "_recipe-card-FZdQ3BA8.js",
+      "_calendar-a14FqBlc.js",
+      "_index-Cs5AiRkC.js",
+      "_index-BauX7GW_.js",
+      "_index-Biyy2jAE.js",
+      "_camera-C1kMh5Dq.js",
+      "_trash-2-CCwFE0g5.js",
+      "_timer-BvEE_CvD.js"
+    ],
+    "css": [
+      "assets/Show-BtkCwQz4.css",
+      "assets/app-DkdrQXns.css"
+    ],
+    "assets": [
+      "assets/Montserrat-SemiBold-RNaBMtWH.woff2",
+      "assets/Montserrat-SemiBold-CKFHtGZO.woff",
+      "assets/Montserrat-SemiBold-YdOtxg4l.ttf"
+    ]
+  },
+  "resources/js/pages/Recipe/CreateRecipe.tsx": {
+    "file": "assets/CreateRecipe-BSYb2rpQ.js",
+    "name": "CreateRecipe",
+    "src": "resources/js/pages/Recipe/CreateRecipe.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_page-layout-b-iBJb6l.js",
+      "_chevron-down-XoXwTeV4.js",
+      "_check-CbkRpova.js",
+      "_app-logo-CrZ-VIvy.js",
+      "_app-logo-icon-M5DxgyyP.js",
+      "_index-Cs5AiRkC.js",
+      "_index-BauX7GW_.js"
+    ],
+    "css": [
+      "assets/CreateRecipe-Bejl06gC.css",
+      "assets/app-DkdrQXns.css"
+    ],
+    "assets": [
+      "assets/Montserrat-SemiBold-RNaBMtWH.woff2",
+      "assets/Montserrat-SemiBold-CKFHtGZO.woff",
+      "assets/Montserrat-SemiBold-YdOtxg4l.ttf"
+    ]
+  },
+  "resources/js/pages/Recipe/Show.tsx": {
+    "file": "assets/Show-N55N-cNM.js",
+    "name": "Show",
+    "src": "resources/js/pages/Recipe/Show.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_page-layout-b-iBJb6l.js",
+      "_app-logo-CrZ-VIvy.js",
+      "_index-Biyy2jAE.js",
+      "_app-logo-icon-M5DxgyyP.js",
+      "_trash-2-CCwFE0g5.js",
+      "_camera-C1kMh5Dq.js",
+      "_circle-arrow-left-C3PLSlrJ.js",
+      "_timer-BvEE_CvD.js",
+      "_index-Cs5AiRkC.js",
+      "_index-BauX7GW_.js"
+    ],
+    "css": [
+      "assets/Show-D3eB6SCz.css",
+      "assets/app-DkdrQXns.css"
+    ],
+    "assets": [
+      "assets/Montserrat-SemiBold-RNaBMtWH.woff2",
+      "assets/Montserrat-SemiBold-CKFHtGZO.woff",
+      "assets/Montserrat-SemiBold-YdOtxg4l.ttf"
+    ]
+  },
+  "resources/js/pages/SearchResults.tsx": {
+    "file": "assets/SearchResults-C9jhcHng.js",
+    "name": "SearchResults",
+    "src": "resources/js/pages/SearchResults.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_page-layout-b-iBJb6l.js",
+      "_recipe-filter-layout-B-QVDyxT.js",
+      "_app-logo-icon-M5DxgyyP.js",
+      "_app-logo-CrZ-VIvy.js",
+      "_index-Cs5AiRkC.js",
+      "_index-BauX7GW_.js",
+      "_recipe-card-FZdQ3BA8.js",
+      "_index-Biyy2jAE.js",
+      "_camera-C1kMh5Dq.js",
+      "_trash-2-CCwFE0g5.js",
+      "_timer-BvEE_CvD.js",
+      "_chevron-down-XoXwTeV4.js",
+      "_check-CbkRpova.js",
+      "_calendar-a14FqBlc.js",
+      "_loader-circle-6foWj8Qm.js"
+    ],
+    "css": [
+      "assets/SearchResults-oSS3zQyu.css",
+      "assets/app-DkdrQXns.css"
+    ],
+    "assets": [
+      "assets/Montserrat-SemiBold-RNaBMtWH.woff2",
+      "assets/Montserrat-SemiBold-CKFHtGZO.woff",
+      "assets/Montserrat-SemiBold-YdOtxg4l.ttf"
+    ]
+  },
+  "resources/js/pages/auth/confirm-password.tsx": {
+    "file": "assets/confirm-password-o3v8VZ3B.js",
+    "name": "confirm-password",
+    "src": "resources/js/pages/auth/confirm-password.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_input-error-C0QJZ2uP.js",
+      "_app-logo-icon-M5DxgyyP.js",
+      "_input-tX9paWm5.js",
+      "_label-Dw3R6cgY.js",
+      "_spinner-CxSm2TwD.js",
+      "_auth-layout-DIAq8QoJ.js",
+      "_index-DuuG6fQz.js",
+      "_index-BauX7GW_.js",
+      "_loader-circle-6foWj8Qm.js"
+    ],
+    "css": [
+      "assets/app-DkdrQXns.css"
+    ],
+    "assets": [
+      "assets/Montserrat-SemiBold-RNaBMtWH.woff2",
+      "assets/Montserrat-SemiBold-CKFHtGZO.woff",
+      "assets/Montserrat-SemiBold-YdOtxg4l.ttf"
+    ]
+  },
+  "resources/js/pages/auth/forgot-password.tsx": {
+    "file": "assets/forgot-password-DTQis8-D.js",
+    "name": "forgot-password",
+    "src": "resources/js/pages/auth/forgot-password.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_app-logo-icon-M5DxgyyP.js",
+      "_index-yAvYzM-X.js",
+      "_input-error-C0QJZ2uP.js",
+      "_text-link-B7lpG8bE.js",
+      "_input-tX9paWm5.js",
+      "_label-Dw3R6cgY.js",
+      "_auth-layout-DIAq8QoJ.js",
+      "_loader-circle-6foWj8Qm.js",
+      "_index-DuuG6fQz.js",
+      "_index-BauX7GW_.js"
+    ],
+    "css": [
+      "assets/app-DkdrQXns.css"
+    ],
+    "assets": [
+      "assets/Montserrat-SemiBold-RNaBMtWH.woff2",
+      "assets/Montserrat-SemiBold-CKFHtGZO.woff",
+      "assets/Montserrat-SemiBold-YdOtxg4l.ttf"
+    ]
+  },
+  "resources/js/pages/auth/login.tsx": {
+    "file": "assets/login-qncjGMVN.js",
+    "name": "login",
+    "src": "resources/js/pages/auth/login.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_input-error-C0QJZ2uP.js",
+      "_text-link-B7lpG8bE.js",
+      "_app-logo-icon-M5DxgyyP.js",
+      "_index-Cs5AiRkC.js",
+      "_index-BnFUR6-L.js",
+      "_check-CbkRpova.js",
+      "_input-tX9paWm5.js",
+      "_label-Dw3R6cgY.js",
+      "_spinner-CxSm2TwD.js",
+      "_auth-layout-DIAq8QoJ.js",
+      "_index-BauX7GW_.js",
+      "_loader-circle-6foWj8Qm.js"
+    ],
+    "css": [
+      "assets/app-DkdrQXns.css"
+    ],
+    "assets": [
+      "assets/Montserrat-SemiBold-RNaBMtWH.woff2",
+      "assets/Montserrat-SemiBold-CKFHtGZO.woff",
+      "assets/Montserrat-SemiBold-YdOtxg4l.ttf"
+    ]
+  },
+  "resources/js/pages/auth/register.tsx": {
+    "file": "assets/register-B4nQ9hfb.js",
+    "name": "register",
+    "src": "resources/js/pages/auth/register.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_app-logo-icon-M5DxgyyP.js",
+      "_input-error-C0QJZ2uP.js",
+      "_text-link-B7lpG8bE.js",
+      "_input-tX9paWm5.js",
+      "_label-Dw3R6cgY.js",
+      "_spinner-CxSm2TwD.js",
+      "_auth-layout-DIAq8QoJ.js",
+      "_index-BauX7GW_.js",
+      "_loader-circle-6foWj8Qm.js"
+    ],
+    "css": [
+      "assets/app-DkdrQXns.css"
+    ],
+    "assets": [
+      "assets/Montserrat-SemiBold-RNaBMtWH.woff2",
+      "assets/Montserrat-SemiBold-CKFHtGZO.woff",
+      "assets/Montserrat-SemiBold-YdOtxg4l.ttf"
+    ]
+  },
+  "resources/js/pages/auth/reset-password.tsx": {
+    "file": "assets/reset-password-Cgrt76qd.js",
+    "name": "reset-password",
+    "src": "resources/js/pages/auth/reset-password.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_index-yAvYzM-X.js",
+      "_input-error-C0QJZ2uP.js",
+      "_app-logo-icon-M5DxgyyP.js",
+      "_input-tX9paWm5.js",
+      "_label-Dw3R6cgY.js",
+      "_spinner-CxSm2TwD.js",
+      "_auth-layout-DIAq8QoJ.js",
+      "_index-DuuG6fQz.js",
+      "_index-BauX7GW_.js",
+      "_loader-circle-6foWj8Qm.js"
+    ],
+    "css": [
+      "assets/app-DkdrQXns.css"
+    ],
+    "assets": [
+      "assets/Montserrat-SemiBold-RNaBMtWH.woff2",
+      "assets/Montserrat-SemiBold-CKFHtGZO.woff",
+      "assets/Montserrat-SemiBold-YdOtxg4l.ttf"
+    ]
+  },
+  "resources/js/pages/auth/two-factor-challenge.tsx": {
+    "file": "assets/two-factor-challenge-CRnx8vKB.js",
+    "name": "two-factor-challenge",
+    "src": "resources/js/pages/auth/two-factor-challenge.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_input-error-C0QJZ2uP.js",
+      "_app-logo-icon-M5DxgyyP.js",
+      "_input-tX9paWm5.js",
+      "_use-two-factor-auth-Cic_rOVQ.js",
+      "_auth-layout-DIAq8QoJ.js"
+    ],
+    "css": [
+      "assets/app-DkdrQXns.css"
+    ],
+    "assets": [
+      "assets/Montserrat-SemiBold-RNaBMtWH.woff2",
+      "assets/Montserrat-SemiBold-CKFHtGZO.woff",
+      "assets/Montserrat-SemiBold-YdOtxg4l.ttf"
+    ]
+  },
+  "resources/js/pages/auth/verify-email.tsx": {
+    "file": "assets/verify-email-C2xWjRSW.js",
+    "name": "verify-email",
+    "src": "resources/js/pages/auth/verify-email.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_text-link-B7lpG8bE.js",
+      "_app-logo-icon-M5DxgyyP.js",
+      "_spinner-CxSm2TwD.js",
+      "_auth-layout-DIAq8QoJ.js",
+      "_index-Dw0P0wSx.js",
+      "_loader-circle-6foWj8Qm.js"
+    ],
+    "css": [
+      "assets/app-DkdrQXns.css"
+    ],
+    "assets": [
+      "assets/Montserrat-SemiBold-RNaBMtWH.woff2",
+      "assets/Montserrat-SemiBold-CKFHtGZO.woff",
+      "assets/Montserrat-SemiBold-YdOtxg4l.ttf"
+    ]
+  },
+  "resources/js/pages/recipe-book/created.tsx": {
+    "file": "assets/created-CK86vq9J.js",
+    "name": "created",
+    "src": "resources/js/pages/recipe-book/created.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_layout-9lkeuaET.js",
+      "_recipe-grid-CUI5rBHA.js",
+      "_page-layout-b-iBJb6l.js",
+      "_use-active-url-DbkSK5dk.js",
+      "_index-BauX7GW_.js",
+      "_app-logo-icon-M5DxgyyP.js",
+      "_index-Biyy2jAE.js",
+      "_recipe-card-FZdQ3BA8.js",
+      "_app-logo-CrZ-VIvy.js",
+      "_index-Cs5AiRkC.js",
+      "_camera-C1kMh5Dq.js",
+      "_trash-2-CCwFE0g5.js",
+      "_timer-BvEE_CvD.js"
+    ],
+    "css": [
+      "assets/app-DkdrQXns.css"
+    ],
+    "assets": [
+      "assets/Montserrat-SemiBold-RNaBMtWH.woff2",
+      "assets/Montserrat-SemiBold-CKFHtGZO.woff",
+      "assets/Montserrat-SemiBold-YdOtxg4l.ttf"
+    ]
+  },
+  "resources/js/pages/recipe-book/favorites.tsx": {
+    "file": "assets/favorites-DbiAYMjF.js",
+    "name": "favorites",
+    "src": "resources/js/pages/recipe-book/favorites.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_layout-9lkeuaET.js",
+      "_recipe-grid-CUI5rBHA.js",
+      "_page-layout-b-iBJb6l.js",
+      "_index-Biyy2jAE.js",
+      "_use-active-url-DbkSK5dk.js",
+      "_index-BauX7GW_.js",
+      "_app-logo-icon-M5DxgyyP.js",
+      "_recipe-card-FZdQ3BA8.js",
+      "_app-logo-CrZ-VIvy.js",
+      "_index-Cs5AiRkC.js",
+      "_camera-C1kMh5Dq.js",
+      "_trash-2-CCwFE0g5.js",
+      "_timer-BvEE_CvD.js"
+    ],
+    "css": [
+      "assets/app-DkdrQXns.css"
+    ],
+    "assets": [
+      "assets/Montserrat-SemiBold-RNaBMtWH.woff2",
+      "assets/Montserrat-SemiBold-CKFHtGZO.woff",
+      "assets/Montserrat-SemiBold-YdOtxg4l.ttf"
+    ]
+  },
+  "resources/js/pages/recipe-book/rated.tsx": {
+    "file": "assets/rated-CGqWMzvY.js",
+    "name": "rated",
+    "src": "resources/js/pages/recipe-book/rated.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_layout-9lkeuaET.js",
+      "_recipe-grid-CUI5rBHA.js",
+      "_page-layout-b-iBJb6l.js",
+      "_recipe-card-FZdQ3BA8.js",
+      "_use-active-url-DbkSK5dk.js",
+      "_index-BauX7GW_.js",
+      "_app-logo-icon-M5DxgyyP.js",
+      "_index-Biyy2jAE.js",
+      "_app-logo-CrZ-VIvy.js",
+      "_index-Cs5AiRkC.js",
+      "_camera-C1kMh5Dq.js",
+      "_trash-2-CCwFE0g5.js",
+      "_timer-BvEE_CvD.js"
+    ],
+    "css": [
+      "assets/app-DkdrQXns.css"
+    ],
+    "assets": [
+      "assets/Montserrat-SemiBold-RNaBMtWH.woff2",
+      "assets/Montserrat-SemiBold-CKFHtGZO.woff",
+      "assets/Montserrat-SemiBold-YdOtxg4l.ttf"
+    ]
+  },
+  "resources/js/pages/settings/appearance.tsx": {
+    "file": "assets/appearance-Bt4fSEX9.js",
+    "name": "appearance",
+    "src": "resources/js/pages/settings/appearance.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_layout-BmxDMfzv.js",
+      "_page-layout-b-iBJb6l.js",
+      "_check-CbkRpova.js",
+      "_app-logo-icon-M5DxgyyP.js",
+      "_use-active-url-DbkSK5dk.js",
+      "_index-BauX7GW_.js",
+      "_app-logo-CrZ-VIvy.js",
+      "_index-Cs5AiRkC.js"
+    ],
+    "css": [
+      "assets/appearance--yXhekiI.css",
+      "assets/app-DkdrQXns.css"
+    ],
+    "assets": [
+      "assets/Montserrat-SemiBold-RNaBMtWH.woff2",
+      "assets/Montserrat-SemiBold-CKFHtGZO.woff",
+      "assets/Montserrat-SemiBold-YdOtxg4l.ttf"
+    ]
+  },
+  "resources/js/pages/settings/password.tsx": {
+    "file": "assets/password-2Va67Hs8.js",
+    "name": "password",
+    "src": "resources/js/pages/settings/password.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_app-logo-icon-M5DxgyyP.js",
+      "_layout-BmxDMfzv.js",
+      "_input-tX9paWm5.js",
+      "_label-Dw3R6cgY.js",
+      "_page-layout-b-iBJb6l.js",
+      "_eye-off-DNW-5Him.js",
+      "_eye-BLANSZuG.js",
+      "_circle-alert-D8OGYjDN.js",
+      "_transition-DpPI5nib.js",
+      "_check-CbkRpova.js",
+      "_app-logo-CrZ-VIvy.js",
+      "_use-active-url-DbkSK5dk.js",
+      "_index-BauX7GW_.js",
+      "_index-Cs5AiRkC.js"
+    ],
+    "css": [
+      "assets/password-CCIaefQS.css",
+      "assets/app-DkdrQXns.css"
+    ],
+    "assets": [
+      "assets/Montserrat-SemiBold-RNaBMtWH.woff2",
+      "assets/Montserrat-SemiBold-CKFHtGZO.woff",
+      "assets/Montserrat-SemiBold-YdOtxg4l.ttf"
+    ]
+  },
+  "resources/js/pages/settings/profile.tsx": {
+    "file": "assets/profile-BZ_HD3Bb.js",
+    "name": "profile",
+    "src": "resources/js/pages/settings/profile.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_app-logo-icon-M5DxgyyP.js",
+      "_index-Dw0P0wSx.js",
+      "_dialog-DbPSSo2k.js",
+      "_input-error-C0QJZ2uP.js",
+      "_input-tX9paWm5.js",
+      "_label-Dw3R6cgY.js",
+      "_layout-BmxDMfzv.js",
+      "_index-Cs5AiRkC.js",
+      "_app-logo-CrZ-VIvy.js",
+      "_index-BnFUR6-L.js",
+      "_chevron-down-XoXwTeV4.js",
+      "_check-CbkRpova.js",
+      "_page-layout-b-iBJb6l.js",
+      "_circle-alert-D8OGYjDN.js",
+      "_camera-C1kMh5Dq.js",
+      "_transition-DpPI5nib.js",
+      "_index-BauX7GW_.js",
+      "_use-active-url-DbkSK5dk.js"
+    ],
+    "css": [
+      "assets/profile-C8SKPSvd.css",
+      "assets/app-DkdrQXns.css"
+    ],
+    "assets": [
+      "assets/Montserrat-SemiBold-RNaBMtWH.woff2",
+      "assets/Montserrat-SemiBold-CKFHtGZO.woff",
+      "assets/Montserrat-SemiBold-YdOtxg4l.ttf"
+    ]
+  },
+  "resources/js/pages/settings/two-factor.tsx": {
+    "file": "assets/two-factor-DD5QS8f8.js",
+    "name": "two-factor",
+    "src": "resources/js/pages/settings/two-factor.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_dialog-DbPSSo2k.js",
+      "_app-logo-icon-M5DxgyyP.js",
+      "_use-two-factor-auth-Cic_rOVQ.js",
+      "_circle-alert-D8OGYjDN.js",
+      "_eye-off-DNW-5Him.js",
+      "_eye-BLANSZuG.js",
+      "_input-error-C0QJZ2uP.js",
+      "_spinner-CxSm2TwD.js",
+      "_check-CbkRpova.js",
+      "_app-logo-CrZ-VIvy.js",
+      "_use-active-url-DbkSK5dk.js",
+      "_book-open-CogPA6sW.js",
+      "_chevron-right-DdHpQQas.js",
+      "_layout-BmxDMfzv.js",
+      "_loader-circle-6foWj8Qm.js",
+      "_index-Cs5AiRkC.js",
+      "_index-BauX7GW_.js"
+    ],
+    "css": [
+      "assets/app-DkdrQXns.css"
+    ],
+    "assets": [
+      "assets/Montserrat-SemiBold-RNaBMtWH.woff2",
+      "assets/Montserrat-SemiBold-CKFHtGZO.woff",
+      "assets/Montserrat-SemiBold-YdOtxg4l.ttf"
+    ]
+  }
+}

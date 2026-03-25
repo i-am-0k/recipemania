@@ -1,0 +1,1 @@
+import{c}from"./app-logo-icon-M5DxgyyP.js";const e=[["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}],["path",{d:"M16 12H8",key:"1fr5h0"}],["path",{d:"m12 8-4 4 4 4",key:"15vm53"}]],o=c("CircleArrowLeft",e);export{o as C};
